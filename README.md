@@ -1,0 +1,2 @@
+# 1k2bd-KISS-APRS-Modem
+1200bd AX.25 KISS/APRS Modem
